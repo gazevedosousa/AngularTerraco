@@ -1,2 +1,0 @@
-# AngularTerraco
-Front em Angular
